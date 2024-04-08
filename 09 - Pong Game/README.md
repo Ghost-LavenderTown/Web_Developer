@@ -1,8 +1,3 @@
-# Day #33
-
-### Pong Game
-In this tutorial ([Open in Youtube](https://youtu.be/wQHVJjrwLhA)),  I am gonna showing to you how to code a pong game with javascript. we create a project that you can play ping pong game with javascript❗️
-
 ### Make Game Easier
 
 To make the game easier, we can adjust the speed of the computer paddle to make it less responsive to the ball's movement. You can modify the line ```com.y += (ball.y - (com.y + com.height / 2)) * 0.1;``` in the ```update()``` function to reduce the factor ```0.1``` to a smaller value. This will make the computer paddle move slower and make the game easier to win. Here's an example with a reduced factor of ```0.05``` :
