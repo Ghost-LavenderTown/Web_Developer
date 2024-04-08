@@ -1,8 +1,3 @@
-# Day #49
-
-### Chess Game (VS Computer)
-In this tutorial ([Open in Youtube](https://youtu.be/XaFYLIEq4E8)), I am gonna showing to you how to code a chess game with javascript. in this javascript chess game you can play with computer, flip board and set position. in this code you will learn to use chessboardjs and chess.js library❗️
-
 # FEN Notation
 
 FEN (Forsyth-Edwards Notation) is a standard notation used to represent a particular chessboard position. It provides a concise and human-readable way to describe the placement of chess pieces on the board, as well as other important information about the position. Here's how FEN notation works:
